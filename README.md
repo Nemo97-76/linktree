@@ -38,6 +38,10 @@ npm install
   <code>
     npm run dev
   </code>
+
+<span>
+also you can preview it <a herf="https://main--nemolinktree.netlify.app/" traget="-blank">here</a>
+</span>
   <li>
     open <a>http://localhost:5173</a> in your broswer
   </li>
