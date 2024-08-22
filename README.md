@@ -10,8 +10,6 @@
   <li>Responsive Design: Adapts to different screen sizes for optimal viewing on any device.</li>
   <li>Customizable: Users can personalize their Linktree with their brand colors, fonts, and content.</li>
   <li>Seamless Navigation: Provides a smooth and user-friendly experience for visitors.</li>
-  <li></li>
-  <li></li>
 </ul>
 <h2>
   Installation:
