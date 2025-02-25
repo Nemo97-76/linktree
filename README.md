@@ -1,10 +1,49 @@
-# React + Vite
+<h1>
+  Linktree with react
+</h1>
+<span>
+  This project is a React Linktree, a popular platform for creating personalized landing pages with social media links, contact information, and other content. It demonstrates the use of React components, styling, and potentially state management
+</span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h4>Features:</h4>
+<ul>
+  <li>Responsive Design: Adapts to different screen sizes for optimal viewing on any device.</li>
+  <li>Customizable: Users can personalize their Linktree with their brand colors, fonts, and content.</li>
+  <li>Seamless Navigation: Provides a smooth and user-friendly experience for visitors.</li>
+</ul>
+<h2>
+  Installation:
+</h2>
 
-Currently, two official plugins are available:
+<ol>
+  <li>Clone the repository:</li>
+  <code>
+    git clone https://github.com/Nemo97-76/linktree.git
+  </code>
+  <li>
+    Install dependencies:
+  </li>
+  <code>
+    cd linktree
+npm install
+  </code>
+</ol>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# linktree
-# linktree
+<ol>
+    <h2>usage:</h2>
+
+  <li>
+    Start the development server:
+  </li>
+  <code>
+    npm run dev
+  </code>
+
+<span>
+  <li>
+    open <a>http://localhost:5173</a> in your broswer
+  </li>
+</ol>
+
+also you can preview it <a href="https://main--nemolinktree.netlify.app/" traget="-blank">here</a>
+</span>
