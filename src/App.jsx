@@ -10,7 +10,7 @@ const App=()=>{
 
 <div className="description ">
   <h2 className="bodoni-moda-sc-header">Tasneem Youssef</h2>
-  <p className="quicksand-span">junior MERN stack developer </p>
+  <p className="quicksand-span sup-description">junior MERN stack developer </p>
 </div>{/* description */}
 <div className="Links">
 
