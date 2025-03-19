@@ -32,8 +32,8 @@
   .personalIMG {
     width: 30vh;
     height: 30vh;
-    max-width: 15vw;
-    max-height: 15vw;
+    max-width: 10vw;
+    max-height: 10vw;
     border-radius: 50%;
     background-image: url(./assets/cropped-image.png);
     background-position: 50% 36%;
