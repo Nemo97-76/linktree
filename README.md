@@ -1,5 +1,5 @@
-# Linktree Clone
-linktree web page containes all me social media and main pages links to contact me easily 
+# Linktree 
+linktree web page containes all my social media and main pages links to contact me easily 
 ## Features
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 - **Theming Support**: Customize the appearance with different colors, fonts, or themes.
