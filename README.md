@@ -59,8 +59,7 @@ Follow these steps to set up and run the project locally:
 ```
 
 ## Live Demo
-[View Linktree here]
-<a href="https://main--nemolinktree.netlify.app/">Demo</a>
+to view demo : <a href="https://main--nemolinktree.netlify.app/">Demo</a>
 
 ## Contact
 - **GitHub**: [Nemo97-76](https://github.com/Nemo97-76)
