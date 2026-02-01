@@ -1,8 +1,10 @@
 # Linktree 
 linktree web page contains all my social media and main pages links to contact me easily 
+
 <p align="center">
   <img src="./src/assets/de30a74e-60f7-4f16-a38d-2221c07e0fd7.jpg" alt="Preview" width="800"/>
 </p>
+
 ## Features
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 - **Theming Support**: Customize the appearance with different colors, fonts, or themes.
