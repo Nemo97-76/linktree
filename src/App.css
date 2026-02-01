@@ -7,12 +7,9 @@
   }
   
   body {
-    background-image: url(./assets/1e79074c289576e5dd073ed89afe9ce4.png);
-    background-size: cover;
+    background-image: url("./assets/1.jpeg");
     background-repeat: no-repeat;
-    background-position: center top;
-    background-attachment: fixed;
-    height: 100vh;
+    background-size:100vw 100vh;
   }
   
   .main {
@@ -36,9 +33,10 @@
     border-radius: 50%;
     background-image: url(./assets/cropped-image.png);
     background-position: 50% 36%;
-    background-size: 250%;
+    background-size: 350%;
     background-repeat: no-repeat;
-    border: white dotted 2.5px;
+    outline: #716458 dotted 5px;
+    outline-offset: 2px;
   }
   
   .description {
@@ -56,10 +54,10 @@
   .bodoni-moda-sc-header {
     font-family: "Bodoni Moda SC", serif;
     font-optical-sizing: auto;
-    font-weight: 400;
-    font-size: 4vh; 
+    font-weight: 600;
+    font-size: 5vh; 
     font-style: normal;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    color: #805774;
   }
   
   .quicksand-span {
@@ -71,8 +69,8 @@
   }
   
   .sup-description{
-    font-size: 2.5vh;
-    
+    font-size: 2vh;
+    color: #417c9c;
   }
   .Links {
     display: grid;
@@ -83,7 +81,7 @@
   
   .LINK {
     height: 8vh;
-    background-color: rgba(255, 255, 255, 0.589);
+    background-color: rgba(65, 124, 156, 0.5);
     color: black;
     width: 45vw; 
     text-align: center;
@@ -97,7 +95,7 @@
   }
   
   .LINK:hover {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(65, 124, 156, 0.8);
     box-shadow: 0px 10px 15px 2px rgba(0, 0, 0, 0.5);
   }
   
@@ -106,4 +104,11 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+  .InstegramLink{
+    background-color: rgb(44, 80, 100);
+  }
+  .InstegramLink:hover{
+    background-color: rgb(44, 80, 100);
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.5);
   }

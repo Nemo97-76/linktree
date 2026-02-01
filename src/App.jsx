@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css"
 import { Tooltip } from "@mui/joy";
-
+//TODO : IG link 1.disable click  2.dark 3.tooltip on click
 const App=()=>{
   return(
     <>
